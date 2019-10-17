@@ -11,7 +11,7 @@ import com.facebook.react.ReactApplication;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.jstasks.HeadlessJsTaskConfig;
-import javax.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.annotation.SuppressLint;
 import android.app.Notification;
 import android.app.NotificationChannel;
